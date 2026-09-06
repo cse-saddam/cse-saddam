@@ -57,12 +57,29 @@ Machine Learning · Deep Learning · Computer Vision · Vision Transformers (ViT
 
 ### 🚀 Key Research Breakthroughs & Metrics
 
-| Domain / Application | Model Architecture | Key Breakthrough & Metric |
-| :--- | :--- | :--- |
-| **Medical Imaging Diagnostics** | Customized Deep CNNs & Transfer Learning | 🩺 Automated Diabetic Retinopathy classification & biomedical pathology detection |
-| **Crop Disease & Foliar Pathology** | `Spatial-Spectral CNN` + `Vision Transformers (ViT)` | 🌾 High-accuracy crop health monitoring & disease detection |
-| **Agricultural AI / Quality Assessment** | `ResNet152V2` + Fine-Tuning | 🎯 **94% Classification Accuracy** in automated fruit categorization |
-| **Affective Computing & Vision** | Real-time CNN Feature Pipelines | 😊 Robust facial emotion & expression recognition under diverse lighting |
+#### 🌾 1. Plant Disease & Fruit Classification
+> **Research & ML** — *Amprex Tech & Thesis Research*
+- Achieved **94% fruit classification accuracy** using `ResNet152V2` and transfer learning techniques.
+- Applied advanced image augmentation and fine-tuned CNN models for robust agricultural disease detection.
+- `ResNet152V2` &bull; `Transfer Learning` &bull; `Computer Vision` &bull; `Fine-Tuning`
+
+#### 🩺 2. Brain Tumor & Diabetic Retinopathy Detection
+> **Medical AI** — *Medical AI Research*
+- Built deep learning classification models for **retinal disease severity analysis** and CNN-based **MRI image preprocessing, feature extraction, and tumor classification**.
+- Developed an automated deep learning pipeline for dermatological skin disease classification.
+- `CNN` &bull; `MRI Preprocessing` &bull; `Deep Learning` &bull; `Medical Diagnostics`
+
+#### 🛰️ 3. Crop Disease Monitoring & Early Warning System
+> **Agricultural AI** — *Satellite & Remote Sensing AI*
+- Achieved **91% crop disease detection accuracy** using `Spatial-Spectral CNN` and `Vision Transformers (ViT)` with **Sentinel-2** satellite imagery.
+- Designed and developed a cloud-based early warning framework providing proactive alerts **2–3 weeks in advance**.
+- `Spatial-Spectral CNN` &bull; `Vision Transformers (ViT)` &bull; `Sentinel-2` &bull; `Remote Sensing`
+
+#### 👤 4. Human Action, Emotion Recognition & Smart Attendance
+> **Computer Vision Systems** — *Behavioral & Biometric Vision*
+- Engineered deep learning-based behavioral analysis pipelines for real-time human action and emotion recognition.
+- Developed facial recognition & real-time automated identity verification systems with **Haar Cascade** real-time smile and expression detection.
+- `OpenCV` &bull; `Haar Cascade` &bull; `Deep Learning` &bull; `Affective Computing`
 
 ---
 
