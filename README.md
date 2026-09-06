@@ -25,7 +25,7 @@ I am a passionate **AI Engineer and Machine Learning Researcher** specializing i
 
 - 🔭 **Current Role:** Engineering research-backed AI pipelines at **Amprex Tech Solution**.
 - 🎓 **Education:** Completed **M.Sc. in CSE** (*CGPA: 3.85 / 4.00*) and **B.Sc. in CSE** (*CGPA: 3.88 / 4.00*).
-- 🧠 **Research Focus:** Vision Transformers (ViT), Spatial-Spectral CNNs, Transfer Learning, Explainable AI (XAI), and Model Optimization.
+- 🧠 **Research Focus:** Vision Transformers (ViT), Spatial-Spectral CNNs, Transfer Learning, Explainable AI (XAI), and Medical Diagnostics.
 - 🏆 **Honors:** Multiple Dean’s Honours & Academic Awards for top-tier research and academic performance.
 - 🌐 **Language Proficiency:** **TOEFL iBT Score: 103 / 120** *(Reading: 27 | Listening: 28 | Speaking: 25 | Writing: 23)*.
 
@@ -39,13 +39,29 @@ Machine Learning · Deep Learning · Computer Vision · Vision Transformers (ViT
 
 ---
 
+### 📚 Selected Research Publications & Articles
+
+- 📄 **Automated Diabetic Retinopathy Classification Using Deep Learning**  
+  *MD Saddam Hossen et al.*  
+  `Medical AI & Health Informatics` &bull; **Journal Article**
+
+- 📄 **CNN-Based Plant Disease Detection for Crop Health Monitoring**  
+  *MD Saddam Hossen et al.*  
+  `Computer Vision & Remote Sensing` &bull; **Journal Article**
+
+- 📄 **Emotion Recognition Using Convolutional Neural Networks**  
+  *MD Saddam Hossen et al.*  
+  `Pattern Recognition & Vision` &bull; **Journal Article**
+
+---
+
 ### 🚀 Key Research Breakthroughs & Metrics
 
 | Domain / Application | Model Architecture | Key Breakthrough & Metric |
 | :--- | :--- | :--- |
+| **Medical Imaging Diagnostics** | Customized Deep CNNs & Transfer Learning | 🩺 Automated Diabetic Retinopathy classification & biomedical pathology detection |
+| **Crop Disease & Foliar Pathology** | `Spatial-Spectral CNN` + `Vision Transformers (ViT)` | 🌾 High-accuracy crop health monitoring & disease detection |
 | **Agricultural AI / Quality Assessment** | `ResNet152V2` + Fine-Tuning | 🎯 **94% Classification Accuracy** in automated fruit categorization |
-| **Crop Disease & Foliar Pathology** | `Spatial-Spectral CNN` + `Vision Transformers (ViT)` | 🌾 **91% Detection Accuracy** in complex crop disease identification |
-| **Medical Imaging Diagnostics** | Customized Deep CNNs & Transfer Learning | 🩺 High-precision pathology detection and biomedical image analysis |
 | **Affective Computing & Vision** | Real-time CNN Feature Pipelines | 😊 Robust facial emotion & expression recognition under diverse lighting |
 
 ---
