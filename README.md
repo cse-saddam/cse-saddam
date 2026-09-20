@@ -6,7 +6,7 @@
 
 <p align="center">
   <b>AI Engineer (Research-Based)</b> at <b>Amprex Tech Solution</b> 🚀<br>
-  <i>M.Sc. in CSE (CGPA: 3.85 / 4.00) &bull; B.Sc. in CSE (CGPA: 3.88 / 4.00)</i>
+  <i>M.Sc. &amp; B.Sc. in Computer Science &amp; Engineering</i>
 </p>
 
 <p align="center">
@@ -24,10 +24,9 @@
 I am a passionate **AI Engineer and Machine Learning Researcher** specializing in Deep Learning, Computer Vision, and Applied AI Solutions. My research and engineering work revolves around designing, training, and deploying advanced neural architectures to solve high-impact challenges in **medical diagnostics**, **precision agriculture**, and **affective computing**.
 
 - 🔭 **Current Role:** Engineering research-backed AI pipelines at **Amprex Tech Solution**.
-- 🎓 **Education:** Completed **M.Sc. in CSE** (*CGPA: 3.85 / 4.00*) and **B.Sc. in CSE** (*CGPA: 3.88 / 4.00*).
+- 🎓 **Education:** M.Sc. & B.Sc. in Computer Science & Engineering.
 - 🧠 **Research Focus:** Vision Transformers (ViT), Spatial-Spectral CNNs, Transfer Learning, Explainable AI (XAI), and Medical Diagnostics.
 - 🏆 **Honors:** Multiple Dean’s Honours & Academic Awards for top-tier research and academic performance.
-- 🌐 **Language Proficiency:** **TOEFL iBT Score: 103 / 120** *(Reading: 27 | Listening: 28 | Speaking: 25 | Writing: 23)*.
 
 ---
 
