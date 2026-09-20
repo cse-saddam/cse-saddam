@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <b>AI Engineer (Research-Based)</b> at <b>Amprex Tech Solution</b> 🚀<br>
+  <b>Aspiring Ph.D. Candidate &amp; AI Researcher</b> 🎓<br>
   <i>M.Sc. &amp; B.Sc. in Computer Science &amp; Engineering</i>
 </p>
 
@@ -23,7 +23,7 @@
 
 I am a passionate **AI Engineer and Machine Learning Researcher** specializing in Deep Learning, Computer Vision, and Applied AI Solutions. My research and engineering work revolves around designing, training, and deploying advanced neural architectures to solve high-impact challenges in **medical diagnostics**, **precision agriculture**, and **affective computing**.
 
-- 🔭 **Current Role:** Engineering research-backed AI pipelines at **Amprex Tech Solution**.
+- 🎯 **Current Focus:** Actively seeking **Ph.D. positions** & developing research-grade AI architectures.
 - 🎓 **Education:** M.Sc. & B.Sc. in Computer Science & Engineering.
 - 🧠 **Research Focus:** Vision Transformers (ViT), Spatial-Spectral CNNs, Transfer Learning, Explainable AI (XAI), and Medical Diagnostics.
 - 🏆 **Honors:** Multiple Dean’s Honours & Academic Awards for top-tier research and academic performance.
@@ -33,7 +33,7 @@ I am a passionate **AI Engineer and Machine Learning Researcher** specializing i
 ### 💡 Core Focus Areas
 
 ```
-Machine Learning · Deep Learning · Computer Vision · Vision Transformers (ViT) · Healthcare AI · Precision Agriculture
+Machine Learning · Deep Learning · Computer Vision · Vision Transformers (ViT) · SQL & Vector Databases · Healthcare AI
 ```
 
 ---
@@ -57,7 +57,7 @@ Machine Learning · Deep Learning · Computer Vision · Vision Transformers (ViT
 ### 🚀 Key Research Breakthroughs & Metrics
 
 #### 🌾 1. Plant Disease & Fruit Classification
-> **Research & ML** — *Amprex Tech & Thesis Research*
+> **Research & ML** — *Thesis & Applied ML Research*
 - Achieved **94% fruit classification accuracy** using `ResNet152V2` and transfer learning techniques.
 - Applied advanced image augmentation and fine-tuned CNN models for robust agricultural disease detection.
 - `ResNet152V2` &bull; `Transfer Learning` &bull; `Computer Vision` &bull; `Fine-Tuning`
@@ -88,6 +88,7 @@ Machine Learning · Deep Learning · Computer Vision · Vision Transformers (ViT
   <!-- Languages -->
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="SQL" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
   <br>
   <!-- Deep Learning & ML Frameworks -->
@@ -97,6 +98,13 @@ Machine Learning · Deep Learning · Computer Vision · Vision Transformers (ViT
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV" />
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
   <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face" />
+  <br>
+  <!-- Databases & Vector Search -->
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Vector_DB-ChromaDB-0284C7?style=flat-square&logo=databricks&logoColor=white" alt="ChromaDB" />
+  <img src="https://img.shields.io/badge/Vector_DB-Pinecone-000000?style=flat-square&logo=pinboard&logoColor=white" alt="Pinecone" />
+  <img src="https://img.shields.io/badge/Vector_Search-FAISS-046A38?style=flat-square&logo=meta&logoColor=white" alt="FAISS" />
   <br>
   <!-- Data & Scientific Stack -->
   <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
@@ -148,5 +156,5 @@ Machine Learning · Deep Learning · Computer Vision · Vision Transformers (ViT
 - ✉️ **Email:** [cse.mdsaddam@gmail.com](mailto:cse.mdsaddam@gmail.com)
 
 <p align="center">
-  <i>Open to AI Engineering roles, ML research collaborations, and graduate research opportunities.</i>
+  <i>Open to Ph.D. positions, ML research collaborations, and graduate research opportunities.</i>
 </p>
